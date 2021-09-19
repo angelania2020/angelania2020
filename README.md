@@ -2,7 +2,7 @@
 - 👩‍💻 I became interested in programming since early childhood when I started creating my websites using HTML, CSS and JavaScript.
 - 👍 I am a hard-working person and a quick learner. I truly enjoy the process of programming.
 - 🤝 I can communicate with clients in Russian, English, and Estonian languages.
-- 🌱 My main goal is to learn HTML, CSS and JavaScript.
+- 🌱 My main goal is to learn HTML, CSS, JavaScript and Java.
 - 💞️ I am looking forward to joining a friendly team of other developers and creating awesome UX/UI websites for organizations.
 
 <!---
