@@ -4,6 +4,7 @@
 - 🌱 My current main goal is to learn JavaScript, React, Data structures and Algorithms.
 - 💞️ I am looking forward to joining a friendly team of other developers and creating awesome UX/UI websites for organizations.
 - 📁 My portfolio can be found [here](http://angelina.rf.gd/).
+- 📁 My LinkedIn profile can be found [here](https://www.linkedin.com/in/angelina-prokofjeva-a92833244/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelania2020&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
