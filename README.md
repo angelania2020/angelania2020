@@ -1,7 +1,7 @@
 - 👋 Hello, I am a junior software developer living in Estonia.
 - 👩‍💻 I became interested in programming in the 00s when I started creating my websites using HTML, CSS, and JavaScript.
 - 👍 I am a hard-working person and a quick learner. I truly enjoy the process of programming. I can communicate with clients in English, Estonian and Russian languages.
-- 🌱 My current main goal is to learn JavaScript, React, Data structures and Algorithms.
+- 🌱 My current main goal is to learn programming languages and improve IT skills.
 - 💞️ I am looking forward to joining a friendly team of other developers and creating awesome UX/UI websites for organizations.
 - 📁 My portfolio can be found [here](http://angelina.rf.gd/).
 - 📁 My LinkedIn profile can be found [here](https://www.linkedin.com/in/angelina-prokofjeva-a92833244/).
